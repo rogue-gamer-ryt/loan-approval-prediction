@@ -40,4 +40,4 @@ RandomForestClassifier: RandomForestClassifier has Accuracy : 98.36%
 ```
 
 ### Confusion Matrix
-![Alt text](image.png)
+![Confusion Matrix](./images/image.png)
